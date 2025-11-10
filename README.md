@@ -132,6 +132,4 @@ Then open the provided local URL (e.g. `http://localhost:8501/`) in your browser
 **Shrawanthi P**
 🔗 [LinkedIn](https://www.linkedin.com/in/shrawanthi-p-861533264)
 
----
 
-Would you like me to add a **screenshot of the HepaSmart web app interface** (showing the form and CSV upload UI) to the README as well?
