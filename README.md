@@ -15,7 +15,7 @@ It allows **individual patient prediction** through an input form and **batch pr
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 HepaSmart/
