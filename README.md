@@ -1,7 +1,3 @@
-Here’s a **professional README.md** file for your **HepaSmart** project 👇
-
----
-
 #  HepaSmart: Hepatitis Survival Prediction App
 
 HepaSmart is a **machine learning–powered web application** that predicts the **survival outcome of hepatitis patients** based on clinical and laboratory data.
